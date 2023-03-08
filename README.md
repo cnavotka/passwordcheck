@@ -17,3 +17,15 @@ This website is aimed to users that want to check their password strenght. But w
 ## Project Goals
 
 ## Feautures
+
+## Future Implemntations
+
+## Technologies Used
+
+## Testing
+
+## Deployment
+
+## Credits
+
+
